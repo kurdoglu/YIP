@@ -1,0 +1,2 @@
+# YIP
+Bekir'in alanı
